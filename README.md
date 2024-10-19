@@ -1,6 +1,13 @@
 # Wireless Frame Analysis
 
 
+**Overview:** The goal of this lab was to capture and analyze 802.11 wireless packets, focusing on signal strength, encryption detection, and channel analysis.
+
+**Skills Developed:** Wireless packet capturing, encryption analysis (WPA), signal strength evaluation.
+
+**Tools Used:** Wireshark, Tshark.
+
+---
 
 
 **Lab Details**
